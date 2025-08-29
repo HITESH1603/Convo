@@ -20,7 +20,7 @@ The Convo application comes with several key features that make it engaging and 
 
 Convo has been developed using a modern and reliable technology stack:
 
-Frontend: JavaScript, HTML, CSS  
+Frontend: React.js , JavaScript, Tailwind CSS  
 Backend: Node.js, Express.js  
 Real-time Communication: Socket.io  
  
